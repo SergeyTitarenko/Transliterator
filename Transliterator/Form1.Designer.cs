@@ -41,6 +41,7 @@
             // 
             // Transliterate
             // 
+            this.Transliterate.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Transliterate.Location = new System.Drawing.Point(33, 150);
             this.Transliterate.Name = "Transliterate";
             this.Transliterate.Size = new System.Drawing.Size(288, 38);
